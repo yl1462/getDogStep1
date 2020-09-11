@@ -18,3 +18,7 @@ function getDogImg(num) {
   })
   .catch(error => console.log(error))
 }
+
+$(
+  watchForm()
+)
